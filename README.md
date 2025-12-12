@@ -1,5 +1,5 @@
-1. Problem Definition
-Your project focuses on optimizing spice production (black pepper, cardamom, clove) using data-driven approaches to address:
+1. Problem Definition: 
+focuses on optimizing spice production (black pepper, cardamom, clove) using data-driven approaches to address:
 Climate and environmental stress
 
 
